@@ -1,1 +1,1 @@
-# Output Link: https://shreyan-dey-sarkar.github.io/PlinkoGame/
+# output link: https://shreyan-dey-sarkar.github.io/PlinkoGame/
